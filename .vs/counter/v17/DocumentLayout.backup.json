@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\counter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|c:\\users\\msi\\counter\\assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exploder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\colorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|C:\\Users\\MSI\\counter\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DE473-D897-947A-FE1B-5B43A2F69B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\Spawner.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:44:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Cube.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Cube.cs",
+              "RelativeToolTip": "Assets\\scripts\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:32:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Manager.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:39:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exploder.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Exploder.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Exploder.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Exploder.cs",
+              "RelativeToolTip": "Assets\\scripts\\Exploder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:15:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Destroyer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Destroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Destroyer.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Destroyer.cs",
+              "RelativeToolTip": "Assets\\scripts\\Destroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:12:47.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Colorer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Colorer.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Colorer.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\Colorer.cs",
+              "RelativeToolTip": "Assets\\scripts\\Colorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:09:06.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T10:48:57.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\counter\\Assets\\scripts\\InputReader.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\InputReader.cs",
+              "ToolTip": "C:\\Users\\MSI\\counter\\Assets\\scripts\\InputReader.cs",
+              "RelativeToolTip": "Assets\\scripts\\InputReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:17:14.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
