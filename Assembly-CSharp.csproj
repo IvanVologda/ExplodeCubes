@@ -59,9 +59,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\Colorer.cs" />
+    <Compile Include="Assets\scripts\RayThrower.cs" />
     <Compile Include="Assets\scripts\InputReader.cs" />
     <Compile Include="Assets\scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\scripts\Manager.cs" />
+    <Compile Include="Assets\scripts\ActionManagement.cs" />
     <Compile Include="Assets\scripts\Destroyer.cs" />
     <Compile Include="Assets\scripts\Exploder.cs" />
     <Compile Include="Assets\scripts\Cube.cs" />
